@@ -25,8 +25,6 @@ Elle permet d’analyser facilement les en-têtes HTTP d’un site web (URL ou d
 
 ## 📦 Installation
 
-Téléchargez le fichier `.deb` :
-
 ```bash
 wget https://github.com/Ghassenz/httpheader-gui/releases/download/v1.0/http-header-gui.deb
 sudo dpkg -i http-header-gui.deb
@@ -36,7 +34,7 @@ sudo dpkg -i http-header-gui.deb
 
 ## 🚀 Lancement
 
-- Depuis le **menu Linux** : `HTTP Header Analyzer`
+- Depuis le menu Linux : `HTTP Header Analyzer`
 - Ou dans le terminal :
 ```bash
 httpheader
@@ -48,20 +46,6 @@ httpheader
 
 ```bash
 sudo apt install python3 python3-tk python3-requests
-```
-
----
-
-## 📁 Structure du paquet `.deb`
-
-```
-http-header-deb/
-├── DEBIAN/control
-├── usr/
-│   ├── bin/httpheader
-│   └── share/
-│       ├── applications/httpheader.desktop
-│       └── icons/hicolor/128x128/apps/httpheader.png
 ```
 
 ---
@@ -78,4 +62,3 @@ Projet personnel en cybersécurité et Python (Kali Linux)
 ## ✅ Licence
 
 Projet open-source — libre d’utilisation à des fins personnelles ou pédagogiques.
-
