@@ -26,7 +26,7 @@ Elle permet d’analyser facilement les en-têtes HTTP d’un site web (URL ou d
 ## 📦 Installation
 
 ```bash
-wget https://github.com/Ghassenz/httpheader-gui/releases/download/v1.0/http-header-gui.deb
+wget https://github.com/Ghassenbrahem/httpheader-gui/releases/download/v1.0/http-header-gui.deb
 sudo dpkg -i http-header-gui.deb
 ```
 
